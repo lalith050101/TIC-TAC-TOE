@@ -1,0 +1,64 @@
+    body {
+	margin:0px;
+	
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    
+    /* background-image: linear-gradient(to right top, #845EC2, #D65DB1, #FF6F91, #FF9671, #FFC75F, #F9F871);
+     */
+}
+
+    #header {
+        
+        color: linear-gradient(to right top, #845EC2, #D65DB1, #FF6F91, #FF9671, #FFC75F, #F9F871);
+        font-size: 45px;
+	    height:80px;
+        padding:30px;
+        margin:0px;
+        font-size: 72px;
+    }
+  
+    #b1, #b2, #b3, #b4, #b5, 
+    #b6, #b7, #b8, #b9 {
+        width: 80px;
+        height: 52px;
+        margin: auto;
+        border: 1px solid gray;
+        border-radius: 6px;
+        font-size: 30px;
+        text-align: center;
+    }
+  
+    #but {
+        box-sizing: border-box;
+        width: 95px;
+        height: 40px;
+        border: 1px solid dodgerblue;
+        margin: auto;
+        border-radius: 4px;
+        font-family: Verdana, 
+            Geneva, Tahoma, sans-serif;
+  
+        background-color:white;
+        color: black;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    #print {
+        font-family: Verdana, 
+        Geneva, Tahoma, sans-serif;
+        color: white;
+        font-size: 20px;
+    }
+  
+    #main {
+        text-align: center;
+    }
+  
+    #rules {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 17px;
+       color: white;
+        
+       
+    }
